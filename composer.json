@@ -1,0 +1,16 @@
+{
+  "name": "yourpay/sweetalert2",
+  "description": "SweetAlert2 to be installed as vendor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mathias",
+      "email": "mag@yourpay.io"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+
+  }
+}
